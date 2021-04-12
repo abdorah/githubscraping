@@ -1,0 +1,17 @@
+{
+  "name": "githubscraping",
+  "version": "1.0.0",
+  "description": "github gathering the most stared repositories",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "github-scraper": "^7.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kotbi abderrahmane",
+  "license": "ISC"
+}
